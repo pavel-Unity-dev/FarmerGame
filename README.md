@@ -1,5 +1,7 @@
 # Farmer Game
 
+https://pavel-unity-dev.itch.io/feedthe-herd
+
 Top-down arcade shooter where a farmer feeds hungry animals with pizza 🍕
 
 ## 🎮 About the Game
